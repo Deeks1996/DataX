@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="270.641" height="142.792" viewBox="0 0 270.641 142.792">
+  <defs>
+    <filter id="Rectangle_78" x="0" y="0" width="270.641" height="142.792" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feFlood flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-4359.583 -585.974)">
+    <g transform="matrix(1, 0, 0, 1, 4359.58, 585.97)" filter="url(#Rectangle_78)">
+      <rect id="Rectangle_78-2" data-name="Rectangle 78" width="186.641" height="58.792" rx="11" transform="translate(42 19)" fill="#fff"/>
+    </g>
+    <rect width="163" height="7" rx="3.5" transform="translate(4413 618)" fill="#ebebeb" />
+    <rect width="163" height="7" rx="3.5" transform="translate(4413 631)" fill="#ebebeb" />
+    <rect width="163" height="7" rx="3.5" transform="translate(4413 644)" fill="#ebebeb" />
+    <rect width="40" height="7" rx="3.5" transform="translate(4413 618)" fill="#f0750f">
+      <animate attributeName="width" attributeType="XML" dur="4s" values="40; 150; 40" repeatCount="indefinite" begin="0.1s" />
+    </rect>
+    <rect width="40" height="7" rx="3.5" transform="translate(4413 631)" fill="#f48040">
+      <animate attributeName="width" attributeType="XML" dur="3.5s" values="40; 150; 40" repeatCount="indefinite" />
+    </rect>
+    <rect width="40" height="7" rx="3.5" transform="translate(4413 644)" fill="#f09537">
+      <animate attributeName="width" attributeType="XML" dur="3s" values="40; 150; 40" repeatCount="indefinite" begin="0.3s" />
+    </rect>
+  </g>
+</svg>

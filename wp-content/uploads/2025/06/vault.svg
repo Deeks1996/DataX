@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71.96 67.88">
+  <defs>
+    <style>.cls-1{fill:#00adcc;}.cls-2{fill:#005766;}.cls-3{fill:#00d8fe;}.cls-4{fill:#008da6;}.cls-5{fill:#00c3e6;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path d="M0,0H72L36,67.88,0,0"></path>
+      <path class="cls-1" d="M44.69,18a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-2" d="M44.69,23.63a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-3" d="M44.69,29.2a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-4" d="M32.48,29.2a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-3" d="M32.48,23.63a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-3" d="M32.48,18a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-2" d="M38.58,18a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-5" d="M38.58,23.63a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-4" d="M38.58,29.2a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+      <path class="cls-3" d="M38.58,34.84a2,2,0,1,1-2-2,2,2,0,0,1,2,2"></path>
+    </g>
+  </g>
+</svg>

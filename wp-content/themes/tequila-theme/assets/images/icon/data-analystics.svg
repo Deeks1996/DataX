@@ -1,0 +1,25 @@
+<svg id="data-analystics" xmlns="http://www.w3.org/2000/svg" width="74.287" height="74.286" viewBox="0 0 74.287 74.286">
+  <g id="Group_190" data-name="Group 190" transform="translate(0 0)">
+    <ellipse id="Ellipse_129" data-name="Ellipse 129" cx="37.143" cy="37.143" rx="37.143" ry="37.143" fill="#f0750f"/>
+  </g>
+  <g id="Group_197" data-name="Group 197" transform="translate(15.523 16.796)">
+    <g id="Group_191" data-name="Group 191" transform="translate(11.766 4.884)">
+      <path id="Path_9851" data-name="Path 9851" d="M-33.186,148.832A12.133,12.133,0,0,1-45.3,136.711a12.131,12.131,0,0,1,12.118-12.116A12.13,12.13,0,0,1-21.07,136.711,12.133,12.133,0,0,1-33.186,148.832Zm0-22.4a10.292,10.292,0,0,0-10.28,10.278,10.293,10.293,0,0,0,10.28,10.283,10.291,10.291,0,0,0,10.278-10.283A10.29,10.29,0,0,0-33.186,126.433Z" transform="translate(45.304 -124.595)" fill="#fff"/>
+    </g>
+    <g id="Group_192" data-name="Group 192">
+      <path id="Path_9852" data-name="Path 9852" d="M-46.865,163.478a3.235,3.235,0,0,1-2.294-.946,3.256,3.256,0,0,1,0-4.59l8.849-8.849a16.829,16.829,0,0,1-2.914-9.491,17.02,17.02,0,0,1,17-17,17.022,17.022,0,0,1,17,17,17.024,17.024,0,0,1-17,17,16.8,16.8,0,0,1-9.5-2.924l-8.847,8.849A3.233,3.233,0,0,1-46.865,163.478Zm20.644-39.038A15.18,15.18,0,0,0-41.385,139.6a15.024,15.024,0,0,0,3.012,9.045.918.918,0,0,1-.088,1.2l-9.4,9.4a1.408,1.408,0,0,0,0,1.99,1.41,1.41,0,0,0,1.99,0l9.4-9.4a.923.923,0,0,1,1.2-.086,15.007,15.007,0,0,0,9.053,3.022A15.184,15.184,0,0,0-11.056,139.6,15.18,15.18,0,0,0-26.221,124.44Z" transform="translate(50.105 -122.602)" fill="#fff"/>
+    </g>
+    <g id="Group_193" data-name="Group 193" transform="translate(19.506 15.907)">
+      <rect id="Rectangle_204" data-name="Rectangle 204" width="1.838" height="5.136" fill="#fff"/>
+    </g>
+    <g id="Group_194" data-name="Group 194" transform="translate(22.959 12.621)">
+      <rect id="Rectangle_205" data-name="Rectangle 205" width="1.838" height="8.422" fill="#fff"/>
+    </g>
+    <g id="Group_195" data-name="Group 195" transform="translate(26.412 15.232)">
+      <rect id="Rectangle_206" data-name="Rectangle 206" width="1.838" height="5.811" fill="#fff"/>
+    </g>
+    <g id="Group_196" data-name="Group 196" transform="translate(7.929 28.314)">
+      <rect id="Rectangle_207" data-name="Rectangle 207" width="1.839" height="4.816" transform="translate(0 1.301) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

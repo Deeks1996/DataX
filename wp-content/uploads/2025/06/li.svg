@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_115" data-name="Rectangle 115" width="35" height="35" transform="translate(2437 6608)" fill="#fff"></rect>
+    </clipPath>
+  </defs>
+  <g id="li" transform="translate(-2437 -6608)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-linkedin" data-name="Icon awesome-linkedin" d="M28.786,2.25H2.207A2.224,2.224,0,0,0,0,4.485v26.53A2.224,2.224,0,0,0,2.207,33.25H28.786A2.23,2.23,0,0,0,31,31.015V4.485A2.23,2.23,0,0,0,28.786,2.25ZM9.369,28.821H4.775V14.027h4.6V28.821Zm-2.3-16.815A2.664,2.664,0,1,1,9.736,9.343a2.665,2.665,0,0,1-2.664,2.664Zm19.52,16.815H22v-7.2c0-1.716-.035-3.923-2.387-3.923-2.394,0-2.761,1.868-2.761,3.8v7.321H12.255V14.027h4.408v2.021h.062a4.839,4.839,0,0,1,4.352-2.387c4.65,0,5.515,3.065,5.515,7.051Z" transform="translate(2439 6607.75)" fill="#fff"></path>
+  </g>
+</svg>

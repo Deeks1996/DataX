@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_115" data-name="Rectangle 115" width="40" height="40" transform="translate(1770 6103)" fill="#fff"></rect>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_42" data-name="Mask Group 42" transform="translate(-1770 -6103)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-phone-alt" data-name="Icon awesome-phone-alt" d="M34.973,25.439,27.1,22.064a1.688,1.688,0,0,0-1.969.485L21.642,26.81A26.062,26.062,0,0,1,9.183,14.352l4.261-3.488A1.683,1.683,0,0,0,13.929,8.9L10.554,1.02A1.7,1.7,0,0,0,8.62.043L1.308,1.73A1.688,1.688,0,0,0,0,3.375,32.622,32.622,0,0,0,32.625,36a1.688,1.688,0,0,0,1.645-1.308l1.688-7.313a1.708,1.708,0,0,0-.985-1.941Z" transform="translate(1772 6105)" fill="#fff"></path>
+  </g>
+</svg>

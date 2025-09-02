@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="35" height="35" transform="translate(2369 6590)" fill="#fff"></rect>
+    </clipPath>
+  </defs>
+  <g id="fb" transform="translate(-2369 -6590)" clip-path="url(#clip-path)">
+    <path id="Icon_awesome-facebook-square" data-name="Icon awesome-facebook-square" d="M27.679,2.25H3.321A3.321,3.321,0,0,0,0,5.571V29.928A3.321,3.321,0,0,0,3.321,33.25h9.5V22.711H8.459V17.75h4.359V13.969c0-4.3,2.56-6.676,6.482-6.676a26.41,26.41,0,0,1,3.842.335v4.221H20.978a2.481,2.481,0,0,0-2.8,2.68V17.75h4.759l-.761,4.961h-4V33.25h9.5A3.321,3.321,0,0,0,31,29.928V5.571A3.321,3.321,0,0,0,27.679,2.25Z" transform="translate(2371 6589.75)" fill="#fff"></path>
+  </g>
+</svg>

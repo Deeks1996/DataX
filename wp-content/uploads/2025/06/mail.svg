@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="40" height="40" transform="translate(1774 6218)" fill="#fff"></rect>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_43" data-name="Mask Group 43" transform="translate(-1774 -6218)" clip-path="url(#clip-path)">
+    <g id="Icon_ionic-ios-mail" data-name="Icon ionic-ios-mail" transform="translate(1771.625 6217.125)">
+      <path id="Path_9233" data-name="Path 9233" d="M41.218,10.37,31.349,20.423a.177.177,0,0,0,0,.257l6.906,7.356a1.19,1.19,0,0,1,0,1.688,1.2,1.2,0,0,1-1.688,0l-6.879-7.328a.188.188,0,0,0-.266,0L27.745,24.1a7.385,7.385,0,0,1-5.265,2.22,7.533,7.533,0,0,1-5.375-2.284l-1.614-1.642a.188.188,0,0,0-.266,0L8.346,29.723a1.2,1.2,0,0,1-1.688,0,1.19,1.19,0,0,1,0-1.688l6.906-7.356a.2.2,0,0,0,0-.257L3.687,10.37a.181.181,0,0,0-.312.128V30.612A2.944,2.944,0,0,0,6.31,33.547H38.595a2.944,2.944,0,0,0,2.935-2.935V10.5A.183.183,0,0,0,41.218,10.37Z" transform="translate(0 0.742)" fill="#fff"></path>
+      <path id="Path_9234" data-name="Path 9234" d="M22.193,24.669a4.986,4.986,0,0,0,3.586-1.5L40.17,8.517a2.883,2.883,0,0,0-1.816-.642H6.042a2.864,2.864,0,0,0-1.816.642L18.616,23.164A4.987,4.987,0,0,0,22.193,24.669Z" transform="translate(0.259)" fill="#fff"></path>
+    </g>
+  </g>
+</svg>

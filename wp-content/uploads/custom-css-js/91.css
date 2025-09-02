@@ -1,0 +1,131 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* ==========================================================================
+   Custom CSS for Contact Form 7 Button (FOCUS: Make images appear)
+   ========================================================================== */
+
+/* Base Styles for the Contact Form 7 Submit Button */
+.wpcf7-submit.button.anim {
+    display: inline-flex;
+    flex-wrap: nowrap; /* Ensures icons and text stay on one line */
+    align-items: center;
+    justify-content: center; /* Temporarily center content for initial visibility */
+    position: relative;
+    cursor: pointer;
+    overflow: hidden; /* Keep this, as it's crucial for later animations */
+    background: transparent;
+    border: none;
+    padding: 0;
+    min-width: 200px; /* Adjust as needed */
+	
+    font-family: var(--manrope);
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--orange);
+    transition: var(--all-medium); /* Keep transitions for now, but they won't be triggered by hover */
+}
+
+/* Styling for the "circle" icon (::before pseudo-element) */
+.wpcf7-submit.button.anim::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 60px;
+    background-image: url('/wp-content/themes/tequila-theme/assets/images/icon/circle.svg'); /* VERIFY THIS PATH! */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+    /* Temporarily remove animation-specific margins/transforms */
+    margin-right: 10px; /* Simple spacing for visibility */
+    transition: none; /* Disable animation for debugging */
+}
+
+/* Styling for the "arrow" icon (::after pseudo-element) */
+.wpcf7-submit.button.anim::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 60px;
+    background-image: url('/wp-content/themes/tequila-theme/assets/images/icon/circle-arrow.svg'); /* VERIFY THIS PATH! */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+
+    position: relative; /* Change to relative for simpler positioning, no absolute needed for now */
+    left: auto; /* Remove absolute positioning */
+    opacity: 1; /* MAKE FULLY VISIBLE */
+    transform: none; /* Remove any transforms */
+    pointer-events: auto; /* Allow interaction for debugging */
+    z-index: 1;
+    margin-left: 10px; /* Simple spacing for visibility */
+    transition: none; /* Disable animation for debugging */
+	z-index:9999;
+}
+
+/* Styling for the "SEND MESSAGE" text */
+.wpcf7-submit.button.anim {
+    display: block;
+    /* Temporarily simplify margin */
+    margin-left: 0;
+    white-space: nowrap;
+    padding: 10px 0; /* Adjust padding as needed */
+    transition: none; /* Disable animation for debugging */
+}
+
+
+/* --- Temporarily Disable Button Hover Animations --- */
+.wpcf7-submit.button.anim:hover::before { transform: none; }
+.wpcf7-submit.button.anim:hover::after { left: auto; opacity: 1; transform: none; }
+.wpcf7-submit.button.anim:hover { margin-left: 0; }
+
+
+/* ==========================================================================
+   Custom Spinner (ajax-loader.gif) - Keep as is
+   ========================================================================== */
+
+/* Hide Contact Form 7's default spinner */
+.wpcf7-spinner { display: none !important; }
+
+/* Define the custom spinner element (using a pseudo-element on the form itself) */
+#contactForm::before {
+    content: '';
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    background-image: url('/wp-content/themes/tequila-theme/assets/css/ajax-loader.gif'); /* VERIFY THIS PATH! */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 100;
+}
+
+/* Add an overlay to dim the form and prevent interaction during submission (optional but recommended) */
+#contactForm::after {
+    content: '';
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    z-index: 99;
+}
+
+/* Show the spinner and overlay when the form is submitting */
+.wpcf7-form.submitting#contactForm::before,
+.wpcf7-form.submitting#contactForm::after {
+    display: block;
+}
+
+/* Ensure the form container is positioned relative for absolute positioning to work */
+#contactForm { position: relative; }</style>
+<!-- end Simple Custom CSS and JS -->
